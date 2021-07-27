@@ -4,7 +4,7 @@
 
 ## Technologies Used
 - <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="15px"> Java 15 
-- <img src="https://cdn.worldvectorlogo.com/logos/selenium-logo.svg" width="20px"> Selenium
+- <img src="./assets/selenium.png" width="20px"> Selenium
 - <img src="https://www.perl.com/images/spidering-websites-with-headless-chrome-and-selenium/chrome.png" width="20px"> Chrome Driver
 
 ## How it works
